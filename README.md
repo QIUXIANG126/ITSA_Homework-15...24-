@@ -1,7 +1,7 @@
 # [題目21. 最大值與最小值]()
   當輸入值小於或大於儲存值時，儲存值將儲存輸入值。fixed顯示小數點,setprecision需要的小數點位
   
-# [題目22. 圈圈叉叉]()
+# [題目22. 圈圈叉叉](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/3931eb3f47fae583de3205ee7ea27ffc2b45090e/itsa_OOXX.cpp)
   if判斷所有可能獲勝的條件，如是輸出True，否則輸出False。 二維矩陣較方便觀察
   
  # [題目23. 找零錢問題](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/9a7f45c6f14b9df8a038980f79daf973ceabb85b/23.%20%E6%89%BE%E9%9B%B6%E9%8C%A2%E5%95%8F%E9%A1%8C)
