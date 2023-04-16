@@ -1,0 +1,9 @@
+#include <iostream>  
+int main() {
+    int N;
+    double R, P, Sum;
+    while (std::cin >> R >> N >> P && !(Sum = 0)) {
+        while (N--) Sum += P, Sum += (Sum * R);
+        std::cout << (unsigned long long)Sum << '\n';
+    }
+}
