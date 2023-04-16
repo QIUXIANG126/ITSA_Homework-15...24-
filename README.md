@@ -1,5 +1,9 @@
-# [題目15. 文字與字幕出現次數](itsa_word_frequency_of_sentence.cpp)
-
+# [題目15. 文字與字母出現次數](itsa_word_frequency_of_sentence.cpp)
+  found 儲存找到的字母，輸出時用以在key中有找到的字母 (b!=0) 為順序輸出。
+ 
+# [題目16. 子字串出現次數](itsa_sentence_frequency.cpp)
+  假如有超過題目規定的長度，用resize 將輸入超過的部分刪除。 found 儲存找到的位置，c儲存找到的次數。
+  
 # [題目21. 最大值與最小值](itsa_max_and_min.cpp)
   當輸入值小於或大於儲存值時，儲存值將儲存輸入值。fixed顯示小數點,setprecision需要的小數點位
   
