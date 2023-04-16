@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std ;
+int main(void){
+    int range,time=0,same_time=0;
+    char inpt_1[128]={},
+         inpt_2[512]={};
+    cin>>inpt_1;
+    cin>>inpt_2;
+    for(range=0;inpt_1[range] != '\0';range++){}
+    for(int i=0;inpt_2[i] != '\0';i++){
+        for(int j=0;j<range;j++){
+            if(inpt_1[j] == inpt_2[j+i]){
+                time++;
+                if(time==range){
+                    same_time++;
+                }
+            }
+            else{
+                break;
+            }
+        }
+        time=0;
+    }
+    cout<<same_time<<endl;
+return 0;
+}
