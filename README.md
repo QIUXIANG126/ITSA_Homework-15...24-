@@ -1,4 +1,4 @@
-# [題目15. 文字與字幕出現次數(itsa_word_frequency_of_sentence.cpp)
+# [題目15. 文字與字幕出現次數](itsa_word_frequency_of_sentence.cpp)
 
 # [題目21. 最大值與最小值](itsa_max_and_min.cpp)
   當輸入值小於或大於儲存值時，儲存值將儲存輸入值。fixed顯示小數點,setprecision需要的小數點位
