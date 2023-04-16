@@ -4,6 +4,11 @@
 # [題目16. 子字串出現次數](itsa_sentence_frequency.cpp)
   假如有超過題目規定的長度，用resize 將輸入超過的部分刪除。 found 儲存找到的位置，c儲存找到的次數。
   
+# [題目17. 英文斷句](itsa_sentence.cpp)
+  #沒過
+  found2上一個位置 found當前位置 found3 重複句子的位置 c重複的次數 b 從上個位置到當前位置的斷詞
+  用c!=1來判斷並用g 記錄最後出現的重複斷詞的位置，最後再將 a字串中重複的斷詞刪除。
+  
 # [題目21. 最大值與最小值](itsa_max_and_min.cpp)
   當輸入值小於或大於儲存值時，儲存值將儲存輸入值。fixed顯示小數點,setprecision需要的小數點位
   
