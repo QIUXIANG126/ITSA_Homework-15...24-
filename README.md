@@ -10,7 +10,7 @@
   found2上一個位置 found當前位置 found3 重複句子的位置 c重複的次數 b 從上個位置到當前位置的斷詞
   用c!=1來判斷並用g 記錄最後出現的重複斷詞的位置，最後再將 a字串中重複的斷詞刪除。
   
-# [題目19.最少派車次數]()
+# [題目19.最少派車次數](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/7a7a4bb15dfe7d250a02d5a11024048c32bece2c/19.%E6%9C%80%E5%B0%91%E6%B4%BE%E8%BB%8A%E6%95%B8)
 # [題目21. 最大值與最小值](itsa_max_and_min.cpp)
   當輸入值小於或大於儲存值時，儲存值將儲存輸入值。fixed顯示小數點,setprecision需要的小數點位
   
