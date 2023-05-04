@@ -8,7 +8,7 @@
   //有問題
   foundL, foundR找到斷詞的開頭跟結尾。 founRE紀錄輸出字串中是否有重複，如果斷詞只有一個字將它轉換成大寫再判斷，最後再將輸出字串統一成小寫。
   
-# [題目18. QWERTY](18. QWERTY)
+# [題目18. QWERTY](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/a30a62ffd2bb314b73e2a768894c61ebe1dfb281/18.%20QWERTY)
   getline讀取字串，這個字串是按照鍵盤上的順序排列的，會把輸入的字往右移一格
   
 # [題目19.最少派車次數](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/7a7a4bb15dfe7d250a02d5a11024048c32bece2c/19.%E6%9C%80%E5%B0%91%E6%B4%BE%E8%BB%8A%E6%95%B8)
