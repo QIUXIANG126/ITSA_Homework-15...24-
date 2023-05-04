@@ -14,7 +14,7 @@
 # [題目19.最少派車次數](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/7a7a4bb15dfe7d250a02d5a11024048c32bece2c/19.%E6%9C%80%E5%B0%91%E6%B4%BE%E8%BB%8A%E6%95%B8)
   輸入班表時間 判斷有幾班(數入的班表數) 判斷開始時間是否符合任一班的結束時間就 -1
   
-# [題目20. 大整數加法]
+# [題目20. 大整數加法](https://github.com/QIUXIANG126/ITSA_Homework-15...24-/blob/b6a16a756da3b19779be359cbdde7a8a880ff1c0/%E9%A1%8C%E7%9B%AE20.%20%E5%A4%A7%E6%95%B4%E6%95%B8%E5%8A%A0%E6%B3%95)
   原本想用gmpxx.h這個函式庫但是沒有裝所以只好採取std::string來儲存大整數
 
 # [題目21. 最大值與最小值](itsa_max_and_min.cpp)
